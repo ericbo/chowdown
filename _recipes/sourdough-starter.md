@@ -2,7 +2,7 @@
 
 layout: recipe
 title: "Sourdough Starter"
-image: starter.jpg
+image: sourdough-starter.jpg
 tags: starter, dough, sourdough
 
 ingredients:
