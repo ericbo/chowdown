@@ -7,7 +7,7 @@ tags: bread sticks, bread, pizza
 
 ingredients:
 - Pizza Stone
-- [Pizza dough](./recipes/neapolitan-pizza-dough.html)
+- Pizza dough
 - Gratted Garlic (Gralic powder also works)
 - Olive Oil
 - (optional) Black Pepper
