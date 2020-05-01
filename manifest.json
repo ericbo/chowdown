@@ -21,6 +21,6 @@ layout: none
     ],
     "theme_color": "{{ site.color }}",
     "background_color": "{{ site.color }}",
-    "start_url": "http://recipes.bottazzi.ca",
+    "start_url": "https://recipes.bottazzi.ca",
     "display": "standalone"
 }
