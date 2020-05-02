@@ -2,7 +2,7 @@
 
 layout: recipe
 title: "Dad's Pancakes"
-image: dom.jpg
+image: dads-pancakes.jpg
 tags: pancakes, breakfast
 
 ingredients:
@@ -13,6 +13,7 @@ ingredients:
 - 3 cups milk
 
 directions:
+- Wisk both wet and dry ingredients separately.
 - Wisk until just compined (do not over mix).
 - (optionaly) Add blueberries or chocolate chips.
 ---
