@@ -2,7 +2,7 @@
 
 layout: recipe
 title: "Latkes"
-image: placeholder.png
+image: latkes.jpg
 tags: pancakes, potato, latkes
 
 ingredients:
