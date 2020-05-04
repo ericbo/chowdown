@@ -2,7 +2,7 @@
 
 layout: recipe
 title: "Beginner Sourdough Bread"
-image: dads-pancakes.jpg
+image: beginner-sourdough-bread.jpg
 tags: bread, sourdough
 
 ingredients:
@@ -38,8 +38,6 @@ directions:
 - Bake at 500 F, 260 C with lids on for 20 mins, then reduce heat to 475 F, 246 C remove lids, and bake 30 more mins until dark brown, borderline burnt, them remove from oven. 
 ---
 
-Trying to watch a video and follow the instructions in this recipe was causing me to make a mistakes.
-I am pre-emptively uploading this recipe to prevent any further mistakes as I experiment with the recipe.
 
 ### Sources
 
