@@ -2,7 +2,7 @@
 
 layout: recipe
 title: "Eric's Chocolate Cake"
-image: dom.jpg
+image: placeholder.png
 tags: cake, chocolate, dessert
 
 ingredients:

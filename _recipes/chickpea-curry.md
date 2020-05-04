@@ -2,7 +2,7 @@
 
 layout: recipe
 title: "Vegan Chickpea Curry"
-image: dom.jpg
+image: placeholder.png
 tags: indian, curry, chickpea
 
 ingredients:

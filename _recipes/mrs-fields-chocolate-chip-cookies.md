@@ -2,7 +2,7 @@
 
 layout: recipe
 title: "Mrs. Fields Chocolate Chip Cookies"
-image: dom.jpg
+image: placeholder.png
 tags: cookies, dessert, chocolate
 
 ingredients:

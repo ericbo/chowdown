@@ -2,7 +2,7 @@
 
 layout: recipe
 title: "Mostacciolli"
-image: dom.png
+image: placeholder.png
 tags: cookies, christmas, dessert, italian
 
 ingredients:

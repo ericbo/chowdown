@@ -2,7 +2,7 @@
 
 layout: recipe
 title: "Marshmallow Squares"
-image: dom.png
+image: placeholder.png
 tags: cake, dessert, marshmallow
 
 ingredients:
