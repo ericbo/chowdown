@@ -5,7 +5,7 @@ title: "Chuck's Mac & Cheese"
 image: CMmnc.jpg
 tags: pasta, cheese, carbs
 
-**Ingredients:**
+ingredients:
 - 8oz dried pasta
 - 1/3 cup heavy cream
 - 5 oz cheese (I suggest a mix of sharp cheddar, parmesian, and pepper jack)
@@ -15,7 +15,6 @@ tags: pasta, cheese, carbs
 - 1/4 Tsp cayenne pepper
 - Black pepper to taste
 - 1/2 stick of butter
-
 
 directions:
 - In a large pan or wok, bring the heavy cream up to near boiling
