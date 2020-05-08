@@ -1,8 +1,8 @@
 ---
 
 layout: recipe
-title: "Aged Bread Sticks"
-image: bread-sticks.jpg
+title: "Aged Breadsticks"
+image: breadsticks.jpg
 tags: bread sticks, bread, pizza
 
 ingredients:
