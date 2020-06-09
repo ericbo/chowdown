@@ -2,7 +2,7 @@
 
 layout: recipe
 title: "Cornbread"
-image: placeholder.png
+image: cornbread.jpg
 tags: bread
 
 ingredients:
